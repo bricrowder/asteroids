@@ -207,7 +207,7 @@ function love.update(dt)
 		end
 
 		-- the player has hit the space bar
-		if love.keyboard.isDown(" ") and player.fireflag == true and player.power - player.firepower > 0 then
+		if love.keyboard.isDown("space") and player.fireflag == true and player.power - player.firepower > 0 then
 			player.fireflag = false
 			player.firetimer = 0
 			player.power = player.power - player.firepower
@@ -500,7 +500,7 @@ function love.draw()
 			shader_explosion:send("t", 1.0 - explosions[i].lifetimer)
 			love.graphics.circle("line", explosions[i].pos.x, explosions[i].pos.y, explosions[i].circlerad, 32)
 			for j = 1, 100 do
-				love.graphics.point(explosions[i].points[j].pos.x, explosions[i].points[j].pos.y)
+				love.graphics.points(explosions[i].points[j].pos.x, explosions[i].points[j].pos.y)
 			end
 		end
 		
