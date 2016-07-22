@@ -1,1 +1,0 @@
-The most basic license, free to use by anyone for anything!
