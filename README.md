@@ -21,8 +21,3 @@ shaders that I have tried out:
 - Movement - arrow keys
 - shoot - space
 - quit - esc
-
-
-![screenshot](./screenshot1.png)
-![screenshot](./screenshot2.png)
-![screenshot](./screenshot3.png)
