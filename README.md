@@ -16,3 +16,13 @@ shaders that I have tried out:
 - noise (not currently using it)
 - B&W (not currently using it)
 - a passthu to just do original colour
+
+## Controls:
+- Movement - arrow keys
+- shoot - space
+- quit - esc
+
+
+![screenshot](./screenshot1.png)
+![screenshot](./screenshot2.png)
+![screenshot](./screenshot3.png)
