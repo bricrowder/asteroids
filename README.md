@@ -20,4 +20,5 @@ shaders that I have tried out:
 ## Controls:
 - Movement - arrow keys
 - shoot - space
+- radar - tab
 - quit - esc
