@@ -1,4 +1,4 @@
-Asteroids
+# Asteroids
 
 Learning some basics on shaders.
 
@@ -6,7 +6,7 @@ Nothing too crazy, but did some research online and here is some initial work.
 
 This is really if anyone wants some very intro level examples of shaders.
 
-I am using LOVE (www.love2d.org) and you will need at least 10.x+ to run this.
+I am using LOVE (www.love2d.org) and you will need at least 0.10.2 to run this.
 
 shaders that I have tried out:
 - rotating colour for the bullet
